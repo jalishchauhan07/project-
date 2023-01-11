@@ -1,1 +1,1 @@
-# project-
+Simple Examination management system 
